@@ -6150,3 +6150,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [22Mar2025 14:35:04.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [22Mar2025 14:40:04.089] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Mar2025 14:40:04.098] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 14:45:02.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC has completed the challenge [Cover Me in Debris]
+[22Mar2025 14:45:04.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 14:45:04.098] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 14:45:44.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC has completed the challenge [Serious Dedication]
+[22Mar2025 14:50:04.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 14:50:04.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
