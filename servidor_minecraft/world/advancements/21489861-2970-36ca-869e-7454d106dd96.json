@@ -5339,6 +5339,12 @@
     },
     "done": true
   },
+  "mekanism:basic_control_circuit": {
+    "criteria": {
+      "basic_control_circuit": "2025-03-22 16:26:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-03-22 13:48:50 +0000"
@@ -5630,6 +5636,12 @@
   "toughasnails:recipes/combat/wool_boots": {
     "criteria": {
       "has_wool": "2025-03-22 14:12:40 +0000"
+    },
+    "done": true
+  },
+  "mekanism:steel_casing": {
+    "criteria": {
+      "steel_casing": "2025-03-22 16:24:19 +0000"
     },
     "done": true
   },
