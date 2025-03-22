@@ -145,3 +145,5 @@
 [22Mar2025 13:12:05.739] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:50475] logged in with entity id 63 at (-1202.5212918348839, -47.0, 2355.699999988079)
 [22Mar2025 13:12:05.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
 [22Mar2025 13:12:05.853] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
+[22Mar2025 13:19:23.175] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Disconnected
+[22Mar2025 13:19:23.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
