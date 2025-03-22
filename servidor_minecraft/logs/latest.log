@@ -1,16 +1,16 @@
-[22Mar2025 13:09:07.409] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[22Mar2025 13:09:07.412] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[22Mar2025 13:09:08.842] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[22Mar2025 13:09:08.914] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/hola/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[22Mar2025 13:09:09.292] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/hola/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[22Mar2025 13:09:09.295] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/hola/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[22Mar2025 13:09:09.296] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/hola/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[22Mar2025 13:09:09.297] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/hola/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[22Mar2025 13:09:09.760] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[22Mar2025 13:09:09.762] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
-[22Mar2025 13:09:12.560] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[22Mar2025 13:09:12.689] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[22Mar2025 13:09:12.957] [main/INFO] [Puzzles Lib/]: Loading 41 mods:
+[22Mar2025 19:32:40.788] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[22Mar2025 19:32:40.791] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[22Mar2025 19:32:42.325] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[22Mar2025 19:32:42.392] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/hola/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[22Mar2025 19:32:42.724] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/hola/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[22Mar2025 19:32:42.726] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/hola/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Mar2025 19:32:42.727] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/hola/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Mar2025 19:32:42.728] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/hola/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Mar2025 19:32:43.047] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[22Mar2025 19:32:43.049] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
+[22Mar2025 19:32:46.628] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[22Mar2025 19:32:46.794] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[22Mar2025 19:32:47.129] [main/INFO] [Puzzles Lib/]: Loading 41 mods:
 	- appleskin 2.5.1+mc1.20.1
 	- architectury 9.2.14
 	- botarium 2.3.4
@@ -53,395 +53,133 @@
 	- toughasnails 9.2.0.171
 	- treechop 0.19.0
 	- vinery 1.4.38
-[22Mar2025 13:09:12.977] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 86 options available, 0 override(s) found
-[22Mar2025 13:09:14.298] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[22Mar2025 13:09:23.265] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.3 initializing! Commit hash: a4a3d64c8fab6aad38158fb5e92066a95cd6e4af
-[22Mar2025 13:09:23.963] [modloading-worker-0/INFO] [toughasnails/]: Serene Seasons detected. Enabling season modifier.
-[22Mar2025 13:09:24.503] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[22Mar2025 13:09:24.839] [modloading-worker-0/INFO] [create_new_age/]: Hello 1.20.1 Create!
-[22Mar2025 13:09:25.010] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[22Mar2025 13:09:25.290] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[22Mar2025 13:09:25.290] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[22Mar2025 13:09:25.468] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for enchantinginfuser:main
-[22Mar2025 13:09:25.627] [modloading-worker-0/INFO] [chloride/Main]: Chloride is not intended to be on servers, loaded in inner mode
-[22Mar2025 13:09:26.960] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@61f94cac has been registered twice for the same name treechop:chop_wood.
-[22Mar2025 13:09:29.528] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Version 10.4.15 initializing...
-[22Mar2025 13:09:29.759] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
-[22Mar2025 13:09:29.759] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Mod loaded.
-[22Mar2025 13:09:29.760] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Generators' module.
-[22Mar2025 13:09:30.133] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
-[22Mar2025 13:09:30.215] [main/INFO] [journeymap/]: Initializing Packet Registries
-[22Mar2025 13:09:30.358] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ht.treechop.compat.Jade
-[22Mar2025 13:09:30.363] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[22Mar2025 13:09:30.379] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[22Mar2025 13:09:30.384] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[22Mar2025 13:09:30.386] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at mekanism.common.integration.lookingat.jade.MekanismJadePlugin
-[22Mar2025 13:09:30.389] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
-[22Mar2025 13:09:30.391] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[22Mar2025 13:09:31.098] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
-[22Mar2025 13:09:31.099] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[22Mar2025 13:09:31.235] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[22Mar2025 13:09:31.235] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[22Mar2025 13:09:31.514] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
-[22Mar2025 13:09:31.514] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[22Mar2025 13:09:31.525] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.25 Target: 8.1.29
-[22Mar2025 13:09:31.526] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[22Mar2025 13:09:31.536] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[22Mar2025 13:09:31.536] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[22Mar2025 13:09:31.673] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[22Mar2025 13:09:31.673] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
-[22Mar2025 13:09:31.688] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: UP_TO_DATE Current: 8.0.3 Target: null
-[22Mar2025 13:09:35.719] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22Mar2025 13:09:38.887] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/hola/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23171!/assets/.mcassetsroot' uses unexpected schema
-[22Mar2025 13:09:38.888] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/hola/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23171!/data/.mcassetsroot' uses unexpected schema
-[22Mar2025 13:09:39.084] [main/INFO] [com.simibubi.create.Create/]: Created 252 recipes which will be injected into the game
-[22Mar2025 13:09:39.103] [main/INFO] [com.simibubi.create.Create/]: Created 21 tags which will be injected into the game
-[22Mar2025 13:09:41.060] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag simpleplanes:fireproof_materials as it is missing following references: #minecraft:non_flammable_wood (from simpleplanes-1.20.1-5.3.3.jar)
-[22Mar2025 13:09:42.703] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe simpleplanes:plane_book as it's serializer returned null
-[22Mar2025 13:09:42.809] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 56 recipes
-[22Mar2025 13:09:42.997] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3650 advancements
-[22Mar2025 13:09:43.015] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
-[22Mar2025 13:09:43.022] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[22Mar2025 13:09:45.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[22Mar2025 13:09:45.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[22Mar2025 13:09:45.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[22Mar2025 13:09:45.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[22Mar2025 13:09:46.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[22Mar2025 13:09:46.126] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[22Mar2025 13:09:46.265] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22Mar2025 13:09:46.266] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[22Mar2025 13:09:46.267] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22Mar2025 13:09:46.267] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[22Mar2025 13:09:46.290] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[22Mar2025 13:09:46.291] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[22Mar2025 13:09:46.355] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
-[22Mar2025 13:09:46.357] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for enchantinginfuser
-[22Mar2025 13:09:46.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[22Mar2025 13:09:54.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[22Mar2025 13:10:02.529] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Mar2025 13:10:02.536] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Mar2025 13:10:02.539] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Mar2025 13:10:02.540] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Mar2025 13:10:02.544] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Mar2025 13:10:02.544] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Mar2025 13:10:02.547] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Mar2025 13:10:02.549] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Mar2025 13:10:02.549] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Mar2025 13:10:02.550] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Mar2025 13:10:02.550] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Mar2025 13:10:02.554] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Mar2025 13:10:02.558] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Mar2025 13:10:02.559] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Mar2025 13:10:02.560] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Mar2025 13:10:02.561] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Mar2025 13:10:02.561] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Mar2025 13:10:02.916] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Mar2025 13:10:03.416] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 42%
-[22Mar2025 13:10:03.943] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 92%
-[22Mar2025 13:10:03.998] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9582 ms
-[22Mar2025 13:10:03.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (17.715s)! For help, type "help"
-[22Mar2025 13:10:04.056] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[22Mar2025 13:12:05.621] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[22Mar2025 13:12:05.739] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:50475] logged in with entity id 63 at (-1202.5212918348839, -47.0, 2355.699999988079)
-[22Mar2025 13:12:05.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
-[22Mar2025 13:12:05.853] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
-[22Mar2025 13:19:23.175] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Disconnected
-[22Mar2025 13:19:23.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
-[22Mar2025 13:32:51.091] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:33039] logged in with entity id 1305 at (-1214.300000011921, -49.0, 2352.699999988079)
-[22Mar2025 13:32:51.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
-[22Mar2025 13:32:51.117] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
-[22Mar2025 14:33:53.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 12 [Smithing Template] to EHC
-[22Mar2025 14:34:22.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 29 [Block of Gold] to EHC
-[22Mar2025 14:45:02.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC has completed the challenge [Cover Me in Debris]
-[22Mar2025 14:45:44.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC has completed the challenge [Serious Dedication]
-[22Mar2025 15:54:06.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC has made the advancement [A Metallur-what?]
-[22Mar2025 16:10:30.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC has made the advancement [Your First Generator]
-[22Mar2025 16:18:17.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC has made the advancement [Industrial Revolution]
-[22Mar2025 16:22:49.398] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThiagoXD_0[/127.160.125.0:33767] logged in with entity id 42173 at (-277.337548075622, 78.0, 1015.5187164250684)
-[22Mar2025 16:22:49.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 joined the game
-[22Mar2025 16:22:49.469] [Server thread/INFO] [Jade/]: Syncing config to ThiagoXD_0 (3ca3f4d4-f67b-3046-afe6-a512e091a8d1)
-[22Mar2025 16:24:19.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC has made the advancement [The Perfect Foundation]
-[22Mar2025 16:26:13.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC has made the advancement [Tricking a Rock Into Thinking]
-[22Mar2025 16:27:07.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 has completed the challenge [Cover Me in Debris]
-[22Mar2025 16:35:13.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 16 [Ender Pearl] to EHC
-[22Mar2025 16:38:33.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved wrongly! 0.28541905753763785
-[22Mar2025 16:38:33.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved wrongly! 0.467365459310372
-[22Mar2025 16:38:33.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved wrongly! 0.9228933465841465
-[22Mar2025 16:41:13.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ThiagoXD_0) moved wrongly! 0.41150562746361175
-[22Mar2025 16:41:13.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ThiagoXD_0) moved wrongly! 0.9752781842928471
-[22Mar2025 16:41:13.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ThiagoXD_0) moved wrongly! 0.5389451278980459
-[22Mar2025 16:41:59.582] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-880, y=49, z=1149} BlockPos{x=-880, y=52, z=1150}
-[22Mar2025 16:43:01.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC has made the advancement [Eye Spy]
-[22Mar2025 16:43:06.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 has made the advancement [Eye Spy]
-[22Mar2025 16:44:48.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ThiagoXD_0 to EHC
-[22Mar2025 16:49:33.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC was kicked for floating too long!
-[22Mar2025 16:49:33.728] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Disconnected
-[22Mar2025 16:49:33.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
-[22Mar2025 16:49:33.776] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[22Mar2025 16:49:47.694] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:39027] logged in with entity id 50324 at (-890.6232219425798, 77.7531999805212, 1176.279555459298)
-[22Mar2025 16:49:47.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
-[22Mar2025 16:49:47.771] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
-[22Mar2025 16:50:11.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 9.897464837491384,1.7384922093173572,-1.2810123887782083
-[22Mar2025 16:50:11.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 10.537742484345017,1.7384922093173572,-1.3974747420593303
-[22Mar2025 16:50:11.314] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 11.178020918375523,2.738492209317357,-1.5139460628161032
-[22Mar2025 16:50:11.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! -14.328066125930263,-1.0,0.4918362502735363
-[22Mar2025 16:50:11.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! -14.328066125930263,-1.0,0.4918362502735363
-[22Mar2025 16:50:11.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! -14.328066125930263,-1.0,0.4918362502735363
-[22Mar2025 16:50:11.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! -13.94978264678798,-1.0,0.5039883241279313
-[22Mar2025 16:50:11.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! -14.610917484282709,-0.9231679985046384,0.4827545145813019
-[22Mar2025 16:50:11.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! -13.966185285261531,0.07683200149536162,0.5034681518263824
-[22Mar2025 16:50:11.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! -13.318793466171996,0.07683200149536162,0.5242676185928303
-[22Mar2025 16:50:12.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! -12.669978537410998,0.07683200149536162,0.5451130110250233
-[22Mar2025 16:50:12.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! -12.020402131038509,0.07683200149536162,0.5659829773651381
-[22Mar2025 16:50:12.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! -11.370418273178416,0.07683200149536162,0.5868660927135352
-[22Mar2025 16:50:12.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! -10.720216396150931,0.07683200149536162,0.6077562438340465
-[22Mar2025 16:50:12.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! -10.069897861413779,0.07683200149536162,0.6286501596559901
-[22Mar2025 16:50:12.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved wrongly! 8.62511258595157
-[22Mar2025 16:50:12.285] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved wrongly! 7.974698229652631
-[22Mar2025 16:51:15.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 8.484321021702954,-1.0,-5.329175506734828
-[22Mar2025 16:51:15.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 8.967132232452286,-1.0,-5.695387542766639
-[22Mar2025 16:51:15.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 9.463320794614674,-1.0,-6.078355322276138
-[22Mar2025 16:51:15.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 9.965677861621657,0.0,-6.471540325032038
-[22Mar2025 16:51:15.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 10.469848179699284,0.0,-6.872048607658371
-[22Mar2025 16:51:15.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 10.974988732272436,0.0,-7.276475431332756
-[22Mar2025 16:51:15.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 11.480648437979767,0.0,-7.682998988194868
-[22Mar2025 16:51:15.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 11.9865859321784,1.0,-8.090644465181185
-[22Mar2025 16:51:15.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 12.49267206546017,1.0,-8.49889025925745
-[22Mar2025 16:51:15.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 12.998837732551806,2.0,-8.907457271039448
-[22Mar2025 16:51:15.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 13.505045956599474,2.0,-9.316196160011259
-[22Mar2025 16:51:15.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 14.011276952025696,2.0,-9.725027017040702
-[22Mar2025 16:51:15.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 14.51752013196267,2.0,-10.133907084343946
-[22Mar2025 16:51:15.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 15.020751511136268,3.0,-10.546490612758816
-[22Mar2025 16:51:15.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 15.520333429339416,3.0,-10.963473280721246
-[22Mar2025 16:51:15.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 16.020000500170568,4.0,-11.380392349200292
-[22Mar2025 16:51:15.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 16.514043706989924,4.0,-11.803879221194165
-[22Mar2025 16:51:15.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 16.97578157855628,5.0,-12.259791426287393
-[22Mar2025 16:51:15.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 17.385282878419957,5.0,-12.759006113798932
-[22Mar2025 16:51:15.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 17.70051891044409,6.0,-13.313016553969192
-[22Mar2025 16:51:15.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 17.930923159545614,6.0,-13.905657399159509
-[22Mar2025 16:51:15.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 9.899118681908817,6.713790548686745,-9.397529678848969
-[22Mar2025 16:51:15.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 10.056265367737751,7.713790548686745,-10.022632066603592
-[22Mar2025 16:51:15.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 10.199748647498495,7.713790548686745,-10.653788917786187
-[22Mar2025 16:51:15.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 10.46612010406659,8.713790548686745,-11.23517443642595
-[22Mar2025 16:51:16.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 10.801407496104162,8.713790548686745,-11.787435557100707
-[22Mar2025 16:51:16.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 11.222558970398154,8.713790548686745,-12.274978239470101
-[22Mar2025 16:51:16.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 11.706653520573695,9.713790548686745,-12.70428979829012
-[22Mar2025 16:51:16.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 12.22746851807642,9.713790548686745,-13.097676961064735
-[22Mar2025 16:51:16.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 12.663879461265992,9.713790548686745,-13.566367266648513
-[22Mar2025 16:51:16.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 13.055127477827796,9.713790548686745,-14.075350782566602
-[22Mar2025 16:51:16.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 13.422209712802783,9.713790548686745,-14.605894391974743
-[22Mar2025 16:51:16.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 13.77636131986435,9.713790548686745,-15.147974377547598
-[22Mar2025 16:51:16.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 14.123594005738255,9.713790548686745,-15.696227247995694
-[22Mar2025 16:51:16.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 14.467124514833131,10.713790548686745,-16.247783106066436
-[22Mar2025 16:51:16.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 14.808674062947034,10.713790548686745,-16.801106326959598
-[22Mar2025 16:51:16.185] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 15.152516710555005,10.713790548686745,-17.353296672828947
-[22Mar2025 16:51:16.185] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 15.510790325225571,10.713790548686745,-17.89608476017702
-[22Mar2025 16:51:16.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 15.902853703571509,10.713790548686745,-18.413239576148953
-[22Mar2025 16:51:16.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 16.32002664701497,10.713790548686745,-18.910266894560436
-[22Mar2025 16:51:16.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 16.759680747554285,10.713790548686745,-19.387644721889956
-[22Mar2025 16:51:16.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 17.21301953913394,10.713790548686745,-19.852800456364093
-[22Mar2025 16:51:16.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 17.67368073604598,10.713790548686745,-20.311416392633646
-[22Mar2025 16:51:16.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 18.138260006058317,10.713790548686745,-20.766533013273374
-[22Mar2025 16:51:16.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 18.606038589385548,10.713790548686745,-21.21862430825672
-[22Mar2025 16:51:16.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 19.09219801146935,10.713790548686745,-21.650042273054623
-[22Mar2025 16:51:16.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 19.621724007286048,11.713790548686745,-22.01862923014596
-[22Mar2025 16:51:16.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 20.185638947613256,11.713790548686745,-22.329088435414405
-[22Mar2025 16:51:16.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 20.77548922016115,11.713790548686745,-22.587607857007924
-[22Mar2025 16:51:16.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 21.379700181606722,11.713790548686745,-22.816814832154932
-[22Mar2025 16:51:16.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 21.991595261360203,11.713790548686745,-23.030337301635427
-[22Mar2025 16:51:16.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 22.607601959615522,11.713790548686745,-23.235467304848953
-[22Mar2025 16:51:16.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 23.225808702954282,11.713790548686745,-23.436106666690875
-[22Mar2025 16:51:16.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 23.845192646553073,11.713790548686745,-23.63434317586848
-[22Mar2025 16:51:16.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 24.46520648654007,12.713790548686745,-23.83129396649315
-[22Mar2025 16:51:16.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 25.085557371525738,12.713790548686745,-24.027556794754673
-[22Mar2025 16:51:16.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 25.706088602570162,12.713790548686745,-24.22345150807223
-[22Mar2025 16:51:16.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 26.326716333194895,12.713790548686745,-24.419149250422606
-[22Mar2025 16:51:16.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 26.947395698821083,12.713790548686745,-24.614741597535613
-[22Mar2025 16:51:16.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 27.567137265748556,12.713790548686745,-24.813288413047758
-[22Mar2025 16:51:16.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 28.183282808675585,12.713790548686745,-25.02241313201921
-[22Mar2025 16:51:16.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 28.795572560267146,13.713790548686745,-25.242390694530968
-[22Mar2025 16:51:16.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 29.404940742478175,13.713790548686745,-25.47039375438544
-[22Mar2025 16:51:16.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 30.012745651163527,13.713790548686745,-25.702691097856587
-[22Mar2025 16:51:16.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 30.61971408335353,13.713790548686745,-25.937286226872402
-[22Mar2025 16:51:16.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 31.22623493364847,13.713790548686745,-26.173110855120285
-[22Mar2025 16:51:16.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 31.832229835752287,13.713790548686745,-26.41032231733584
-[22Mar2025 16:51:16.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 32.43794331346544,13.713790548686745,-26.648275846757087
-[22Mar2025 16:51:16.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 33.04350620659807,13.713790548686745,-26.886626441544877
-[22Mar2025 16:51:16.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 33.64868946293973,13.713790548686745,-27.125944655302874
-[22Mar2025 16:51:16.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 34.25366958320376,13.713790548686745,-27.365780622679495
-[22Mar2025 16:51:16.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 34.85854100940264,14.713790548686745,-27.605893629694492
-[22Mar2025 16:51:16.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 35.46335427557449,14.713790548686745,-27.846154875096317
-[22Mar2025 16:51:16.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 36.0681364214754,14.713790548686745,-28.0864954399035
-[22Mar2025 16:51:16.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 36.672901915539796,14.713790548686745,-28.326878446943056
-[22Mar2025 16:51:16.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 37.27765849953846,14.713790548686745,-28.56728416397482
-[22Mar2025 16:51:16.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 37.882410315938614,14.713790548686745,-28.807702032670704
-[22Mar2025 16:51:16.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 38.48715958129185,14.713790548686745,-29.048126403479728
-[22Mar2025 16:51:16.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 39.091907481630756,14.713790548686745,-29.288554253439997
-[22Mar2025 16:51:16.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 39.696654651577774,14.713790548686745,-29.528983965024736
-[22Mar2025 16:51:16.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 40.30140143070662,14.713790548686745,-29.769414672727407
-[22Mar2025 16:51:16.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 40.90614800071637,15.713790548686745,-30.009845913433082
-[22Mar2025 16:51:16.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 41.51089445883076,15.713790548686745,-30.250277439338106
-[22Mar2025 16:51:16.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 42.115640857072094,15.713790548686745,-30.490709117847473
-[22Mar2025 16:51:16.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 42.72038722327659,15.713790548686745,-30.73114087801241
-[22Mar2025 16:51:16.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 43.325133572338814,15.713790548686745,-30.971572681869702
-[22Mar2025 16:52:10.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 10.31354329107512,0.0,1.795711583321463
-[22Mar2025 16:52:10.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 10.886517918358095,0.0,1.895473337947351
-[22Mar2025 16:52:10.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 11.45949254564107,0.0,1.995235092573239
-[22Mar2025 16:52:10.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 12.032467172924044,0.0,2.094996847199127
-[22Mar2025 16:52:10.088] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 12.605441800207018,0.0,2.194758601825015
-[22Mar2025 16:52:10.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 13.178416427489992,0.0,2.294520356450903
-[22Mar2025 16:52:29.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC moved too quickly! 3.607529817814793,0.7967356006687112,-9.35051116451973
-[22Mar2025 16:52:34.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC was kicked for floating too long!
-[22Mar2025 16:52:34.079] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Flying is not enabled on this server
-[22Mar2025 16:52:34.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
-[22Mar2025 16:52:45.385] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:33783] logged in with entity id 53630 at (-274.4834364730643, 79.02442408821369, 1031.0077973256589)
-[22Mar2025 16:52:45.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
-[22Mar2025 16:52:45.401] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
-[22Mar2025 16:54:55.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved wrongly! 0.9201212719009391
-[22Mar2025 16:54:55.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved wrongly! 0.49930131960491053
-[22Mar2025 16:57:00.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Timed out
-[22Mar2025 16:57:00.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
-[22Mar2025 16:57:45.636] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:52337] logged in with entity id 55157 at (-891.9173613944544, 11.0, 1184.0388105214945)
-[22Mar2025 16:57:45.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
-[22Mar2025 16:57:45.704] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
-[22Mar2025 16:58:30.774] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Timed out
-[22Mar2025 16:58:30.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
-[22Mar2025 16:59:01.235] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:44423] logged in with entity id 55305 at (-900.4426335869941, 14.0, 1185.276552343886)
-[22Mar2025 16:59:01.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
-[22Mar2025 16:59:01.290] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
-[22Mar2025 16:59:31.376] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Timed out
-[22Mar2025 16:59:31.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
-[22Mar2025 16:59:44.939] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:46707] logged in with entity id 55387 at (-900.4426335869941, 14.0, 1185.276552343886)
-[22Mar2025 16:59:44.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
-[22Mar2025 16:59:45.015] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
-[22Mar2025 17:02:05.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC has made the advancement [The End?]
-[22Mar2025 17:02:07.011] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
-[22Mar2025 17:02:07.017] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
-[22Mar2025 17:02:07.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 has made the advancement [The End?]
-[22Mar2025 17:02:07.851] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2882ms or 57 ticks behind
-[22Mar2025 17:02:11.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThiagoXD_0 was kicked for floating too long!
-[22Mar2025 17:02:11.885] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThiagoXD_0 lost connection: Flying is not enabled on this server
-[22Mar2025 17:02:11.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 left the game
-[22Mar2025 17:04:36.679] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@7e5f237[id=<null>,name=ThiagoXD_0,properties={},legacy=false] (/127.160.125.0:33781): Took too long to log in
-[22Mar2025 17:04:36.679] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7e5f237[id=<null>,name=ThiagoXD_0,properties={},legacy=false] (/127.160.125.0:33781) lost connection: Took too long to log in
-[22Mar2025 17:04:36.723] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[22Mar2025 17:05:43.472] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@62b97839[id=<null>,name=ThiagoXD_0,properties={},legacy=false] (/127.160.125.0:48261): Took too long to log in
-[22Mar2025 17:05:43.473] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@62b97839[id=<null>,name=ThiagoXD_0,properties={},legacy=false] (/127.160.125.0:48261) lost connection: Took too long to log in
-[22Mar2025 17:05:43.522] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[22Mar2025 17:06:59.422] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@146bfd5f[id=<null>,name=ThiagoXD_0,properties={},legacy=false] (/127.160.125.0:57763): Took too long to log in
-[22Mar2025 17:06:59.423] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@146bfd5f[id=<null>,name=ThiagoXD_0,properties={},legacy=false] (/127.160.125.0:57763) lost connection: Took too long to log in
-[22Mar2025 17:06:59.472] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[22Mar2025 17:08:51.422] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@c35133d[id=<null>,name=ThiagoXD_0,properties={},legacy=false] (/127.160.125.0:35113): Took too long to log in
-[22Mar2025 17:08:51.423] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@c35133d[id=<null>,name=ThiagoXD_0,properties={},legacy=false] (/127.160.125.0:35113) lost connection: Took too long to log in
-[22Mar2025 17:08:51.472] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[22Mar2025 17:11:27.972] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@20b5b221[id=<null>,name=ThiagoXD_0,properties={},legacy=false] (/127.160.125.0:45601): Took too long to log in
-[22Mar2025 17:11:27.973] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@20b5b221[id=<null>,name=ThiagoXD_0,properties={},legacy=false] (/127.160.125.0:45601) lost connection: Took too long to log in
-[22Mar2025 17:11:28.023] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[22Mar2025 17:12:25.882] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThiagoXD_0[/127.160.125.0:48447] logged in with entity id 56644 at (-902.6544435292211, 13.607395450048656, 1184.4602965509291)
-[22Mar2025 17:12:25.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 joined the game
-[22Mar2025 17:12:25.897] [Server thread/INFO] [Jade/]: Syncing config to ThiagoXD_0 (3ca3f4d4-f67b-3046-afe6-a512e091a8d1)
-[22Mar2025 17:13:17.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC was kicked for floating too long!
-[22Mar2025 17:13:17.072] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Flying is not enabled on this server
-[22Mar2025 17:13:17.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
-[22Mar2025 17:13:51.834] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:37731] logged in with entity id 56842 at (0.07579367961846356, 61.7967356006687, -15.31582418501046)
-[22Mar2025 17:13:51.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
-[22Mar2025 17:13:51.847] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
-[22Mar2025 17:13:52.231] [Server thread/WARN] [net.minecraft.world.entity.boss.enderdragon.phases.DragonStrafePlayerPhase/]: Skipping player strafe phase because no player was found
-[22Mar2025 17:14:46.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC has reached the goal [You Need a Mint]
-[22Mar2025 17:15:52.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC has made the advancement [Free the End]
-[22Mar2025 17:16:00.474] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Disconnected
-[22Mar2025 17:16:00.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
-[22Mar2025 17:16:44.082] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:45901] logged in with entity id 57238 at (-0.4651709315241563, 61.0, -20.722957210273773)
-[22Mar2025 17:16:44.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
-[22Mar2025 17:16:44.095] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
-[22Mar2025 17:16:45.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported EHC to ThiagoXD_0
-[22Mar2025 17:16:52.672] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Disconnected
-[22Mar2025 17:16:52.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
-[22Mar2025 17:18:13.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThiagoXD_0 was kicked for floating too long!
-[22Mar2025 17:18:13.371] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThiagoXD_0 lost connection: Flying is not enabled on this server
-[22Mar2025 17:18:13.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 left the game
-[22Mar2025 17:18:19.279] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:37327] logged in with entity id 57484 at (-902.6544435292211, -145.551174250013, 1184.4602965509291)
-[22Mar2025 17:18:19.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
-[22Mar2025 17:18:19.293] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
-[22Mar2025 17:18:19.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC fell out of the world
-[22Mar2025 17:18:20.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set EHC's game mode to Creative Mode
-[22Mar2025 17:18:55.528] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThiagoXD_0[/127.160.125.0:43285] logged in with entity id 57805 at (-902.6544435292211, 13.607395450048656, 1184.4602965509291)
-[22Mar2025 17:18:55.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 joined the game
-[22Mar2025 17:18:55.544] [Server thread/INFO] [Jade/]: Syncing config to ThiagoXD_0 (3ca3f4d4-f67b-3046-afe6-a512e091a8d1)
-[22Mar2025 17:19:07.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
-[22Mar2025 17:19:21.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Successfully restored EHC's items
-[22Mar2025 17:19:54.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set EHC's game mode to Survival Mode
-[22Mar2025 17:20:51.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported EHC to ThiagoXD_0
-[22Mar2025 17:25:03.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 0.4093811762709265,-2.7030807051507253,20.03542424945158
-[22Mar2025 17:25:03.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 0.4738431431389927,-2.647206185435067,19.34628517090323
-[22Mar2025 17:25:03.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 0.5252931993613856,-2.574109878189873,18.65831466324221
-[22Mar2025 17:25:03.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 0.5869572947948427,-2.5233783840616013,17.96676400287788
-[22Mar2025 17:25:03.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 0.6357804266809808,-2.4511772850100044,17.2767072172677
-[22Mar2025 17:25:03.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 0.6772221809743542,-2.382027386189762,16.585119141227096
-[22Mar2025 17:25:03.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 0.7088673314780181,-2.2935950311264435,15.896677734119066
-[22Mar2025 17:25:03.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 0.7321760170902962,-2.189639515068265,15.212269663726374
-[22Mar2025 17:25:03.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 0.7511477704103982,-2.095741378833779,14.525787123674604
-[22Mar2025 17:25:03.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 0.7638871894316708,-1.9890391530082638,13.8433705025692
-[22Mar2025 17:25:03.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 0.771387711658349,-1.8730952568468524,13.165107293626761
-[22Mar2025 17:25:03.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 0.779568109679758,-1.7708391935902625,12.483057795231161
-[22Mar2025 17:25:03.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 0.7834849511484663,-1.6601287288005722,11.804762335881037
-[22Mar2025 17:25:03.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 0.7838180163893185,-1.5435275903408439,11.130121474227735
-[22Mar2025 17:25:03.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 0.7811390419789177,-1.4230003270912022,10.45895976281497
-[22Mar2025 17:25:03.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 0.7971273937798742,-1.3988688884681153,10.444170693264027
-[22Mar2025 17:25:04.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.18926443036059482,-1.7085423954833772,11.986922459145717
-[22Mar2025 17:25:04.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.18926443036059482,-1.7085423954833772,11.986922459145717
-[22Mar2025 17:25:04.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.18926443036059482,-1.7085423954833772,11.986922459145717
-[22Mar2025 17:25:04.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.18926443036059482,-1.7085423954833772,11.986922459145717
-[22Mar2025 17:25:04.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.18926443036059482,-1.7085423954833772,11.986922459145717
-[22Mar2025 17:25:04.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.18926443036059482,-1.7085423954833772,11.986922459145717
-[22Mar2025 17:25:04.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.18926443036059482,-1.7085423954833772,11.986922459145717
-[22Mar2025 17:25:04.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.18926443036059482,-1.7085423954833772,11.986922459145717
-[22Mar2025 17:25:04.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.18926443036059482,-1.7085423954833772,11.986922459145717
-[22Mar2025 17:25:04.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.18926443036059482,-1.7085423954833772,11.986922459145717
-[22Mar2025 17:25:04.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.18926443036059482,-1.7085423954833772,11.986922459145717
-[22Mar2025 17:25:04.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.18926443036059482,-1.7085423954833772,11.986922459145717
-[22Mar2025 17:25:04.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.18926443036059482,-1.7085423954833772,11.986922459145717
-[22Mar2025 17:25:04.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.18926443036059482,-1.7085423954833772,11.986922459145717
-[22Mar2025 17:25:04.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.18926443036059482,-1.7085423954833772,11.986922459145717
-[22Mar2025 17:25:04.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.18854121906235832,-1.7080442214609093,11.987188695458713
-[22Mar2025 17:25:04.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.1880499983046775,-1.7070267786239413,11.981511404635171
-[22Mar2025 17:25:04.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.16640118463442377,-1.7956339598073612,12.639194234258525
-[22Mar2025 17:25:04.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.16544089266744777,-1.7997149599454616,12.632210222630874
-[22Mar2025 17:25:04.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.16422292947072492,-1.7998954923156134,12.627841910694087
-[22Mar2025 17:25:04.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.18589242240818749,-1.6982959153626211,11.976427771920953
-[22Mar2025 17:25:04.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.16221470890241108,-1.7981746647900536,12.61995703768821
-[22Mar2025 17:25:04.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.1613896793725189,-1.7966449168021086,12.616418256403563
-[22Mar2025 17:25:04.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.15936647915611957,-1.813999507433806,12.608856626920328
-[22Mar2025 17:27:56.223] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThiagoXD_0 lost connection: Timed out
-[22Mar2025 17:27:56.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 left the game
-[22Mar2025 17:29:39.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC has made the advancement [The City at the End of the Game]
-[22Mar2025 17:32:35.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC has made the advancement [Hunt and Gather]
-[22Mar2025 17:33:11.674] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1e114c62[id=<null>,name=ThiagoXD_0,properties={},legacy=false] (/127.160.125.0:43595): Took too long to log in
-[22Mar2025 17:33:11.674] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1e114c62[id=<null>,name=ThiagoXD_0,properties={},legacy=false] (/127.160.125.0:43595) lost connection: Took too long to log in
-[22Mar2025 17:33:11.723] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[22Mar2025 17:35:42.384] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThiagoXD_0[/127.160.125.0:40797] logged in with entity id 61265 at (-1508.7536525078476, 75.6330486806566, -795.335775602457)
-[22Mar2025 17:35:42.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 joined the game
-[22Mar2025 17:35:42.399] [Server thread/INFO] [Jade/]: Syncing config to ThiagoXD_0 (3ca3f4d4-f67b-3046-afe6-a512e091a8d1)
-[22Mar2025 17:35:46.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
-[22Mar2025 17:35:52.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
-[22Mar2025 17:36:00.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ThiagoXD_0 to EHC
-[22Mar2025 17:36:01.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 has made the advancement [The City at the End of the Game]
-[22Mar2025 17:36:42.572] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThiagoXD_0 lost connection: Timed out
-[22Mar2025 17:36:42.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 left the game
-[22Mar2025 17:37:21.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC moved too quickly! 0.0,-11.183315841704854,0.0
-[22Mar2025 17:38:05.721] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Timed out
-[22Mar2025 17:38:05.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
-[22Mar2025 17:38:33.927] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:46365] logged in with entity id 61504 at (-1235.8579803190921, 138.20000004768372, -916.3000000119209)
-[22Mar2025 17:38:33.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
-[22Mar2025 17:38:33.941] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
-[22Mar2025 17:39:25.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC was kicked for floating too long!
-[22Mar2025 17:39:25.421] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Flying is not enabled on this server
-[22Mar2025 17:39:25.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
-[22Mar2025 17:40:22.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[22Mar2025 17:40:22.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: allowflight true<--[HERE]
-[22Mar2025 17:40:29.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[22Mar2025 17:40:29.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: allowflight true<--[HERE]
-[22Mar2025 17:41:17.569] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@217e0cb1[id=<null>,name=EHC,properties={},legacy=false] (/127.175.124.207:39165) lost connection: Disconnected
-[22Mar2025 17:41:40.878] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:49515] logged in with entity id 61635 at (-1235.1256366777766, 150.54701300455082, -918.2907378743126)
-[22Mar2025 17:41:40.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
-[22Mar2025 17:41:40.892] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
+[22Mar2025 19:32:47.150] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 86 options available, 0 override(s) found
+[22Mar2025 19:32:48.525] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[22Mar2025 19:32:56.904] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.3 initializing! Commit hash: a4a3d64c8fab6aad38158fb5e92066a95cd6e4af
+[22Mar2025 19:32:57.535] [modloading-worker-0/INFO] [toughasnails/]: Serene Seasons detected. Enabling season modifier.
+[22Mar2025 19:32:58.285] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[22Mar2025 19:32:58.598] [modloading-worker-0/INFO] [create_new_age/]: Hello 1.20.1 Create!
+[22Mar2025 19:32:59.004] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[22Mar2025 19:32:59.062] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[22Mar2025 19:32:59.063] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[22Mar2025 19:32:59.185] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for enchantinginfuser:main
+[22Mar2025 19:32:59.283] [modloading-worker-0/INFO] [chloride/Main]: Chloride is not intended to be on servers, loaded in inner mode
+[22Mar2025 19:33:00.610] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@61f94cac has been registered twice for the same name treechop:chop_wood.
+[22Mar2025 19:33:03.197] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Version 10.4.15 initializing...
+[22Mar2025 19:33:03.405] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Generators' module.
+[22Mar2025 19:33:03.468] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[22Mar2025 19:33:03.469] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Mod loaded.
+[22Mar2025 19:33:03.785] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[22Mar2025 19:33:03.867] [main/INFO] [journeymap/]: Initializing Packet Registries
+[22Mar2025 19:33:04.031] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ht.treechop.compat.Jade
+[22Mar2025 19:33:04.037] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[22Mar2025 19:33:04.055] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[22Mar2025 19:33:04.060] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[22Mar2025 19:33:04.062] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at mekanism.common.integration.lookingat.jade.MekanismJadePlugin
+[22Mar2025 19:33:04.065] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
+[22Mar2025 19:33:04.067] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[22Mar2025 19:33:04.682] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: AHEAD Current: 1.20.1-1.0.24 Target: null
+[22Mar2025 19:33:04.683] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[22Mar2025 19:33:04.802] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[22Mar2025 19:33:04.803] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[22Mar2025 19:33:05.065] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
+[22Mar2025 19:33:05.068] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[22Mar2025 19:33:05.084] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.25 Target: 8.1.29
+[22Mar2025 19:33:05.084] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[22Mar2025 19:33:05.096] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[22Mar2025 19:33:05.096] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[22Mar2025 19:33:05.347] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[22Mar2025 19:33:05.347] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
+[22Mar2025 19:33:05.357] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: UP_TO_DATE Current: 8.0.3 Target: null
+[22Mar2025 19:33:08.898] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22Mar2025 19:33:11.411] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/hola/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23171!/assets/.mcassetsroot' uses unexpected schema
+[22Mar2025 19:33:11.412] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/hola/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23171!/data/.mcassetsroot' uses unexpected schema
+[22Mar2025 19:33:11.557] [main/INFO] [com.simibubi.create.Create/]: Created 252 recipes which will be injected into the game
+[22Mar2025 19:33:11.569] [main/INFO] [com.simibubi.create.Create/]: Created 21 tags which will be injected into the game
+[22Mar2025 19:33:13.242] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag simpleplanes:fireproof_materials as it is missing following references: #minecraft:non_flammable_wood (from simpleplanes-1.20.1-5.3.3.jar)
+[22Mar2025 19:33:14.607] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe simpleplanes:plane_book as it's serializer returned null
+[22Mar2025 19:33:14.738] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 56 recipes
+[22Mar2025 19:33:14.922] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3650 advancements
+[22Mar2025 19:33:14.932] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
+[22Mar2025 19:33:14.939] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[22Mar2025 19:33:17.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[22Mar2025 19:33:17.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[22Mar2025 19:33:17.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[22Mar2025 19:33:17.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[22Mar2025 19:33:17.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[22Mar2025 19:33:17.281] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[22Mar2025 19:33:17.392] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22Mar2025 19:33:17.393] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[22Mar2025 19:33:17.394] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22Mar2025 19:33:17.394] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[22Mar2025 19:33:17.419] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[22Mar2025 19:33:17.420] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[22Mar2025 19:33:17.423] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[22Mar2025 19:33:17.460] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
+[22Mar2025 19:33:17.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[22Mar2025 19:33:24.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[22Mar2025 19:33:28.285] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Mar2025 19:33:28.302] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Mar2025 19:33:28.321] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Mar2025 19:33:28.348] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Mar2025 19:33:28.482] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Mar2025 19:33:28.511] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Mar2025 19:33:28.556] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Mar2025 19:33:28.586] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Mar2025 19:33:28.599] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Mar2025 19:33:29.046] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Mar2025 19:33:29.541] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Mar2025 19:33:30.035] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Mar2025 19:33:30.534] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 17%
+[22Mar2025 19:33:31.034] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 87%
+[22Mar2025 19:33:31.228] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6695 ms
+[22Mar2025 19:33:31.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (13.816s)! For help, type "help"
+[22Mar2025 19:33:31.272] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[22Mar2025 19:33:54.324] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[22Mar2025 19:33:54.456] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:59381] logged in with entity id 53 at (51.47977702428352, 62.90368580923372, -1364.3634430978839)
+[22Mar2025 19:33:54.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
+[22Mar2025 19:33:55.757] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
+[22Mar2025 19:33:59.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 12.64948013689272,2.753734739878709,23.136556902116126
+[22Mar2025 19:33:59.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 12.64948013689272,2.6988142398787076,23.136556902116126
+[22Mar2025 19:33:59.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 12.64948013689272,2.619046122435307,23.136556902116126
+[22Mar2025 19:33:59.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 12.64948013689272,2.5145092400483193,23.136556902116126
+[22Mar2025 19:33:59.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 12.64948013689272,2.3852883396661966,23.136556902116126
+[22Mar2025 19:33:59.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 12.64948013689272,2.231473981740507,23.136556902116126
+[22Mar2025 19:33:59.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 12.64948013689272,2.053162453993153,23.136556902116126
+[22Mar2025 19:33:59.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 12.64948013689272,1.8504556800697998,23.136556902116126
+[22Mar2025 19:33:59.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 12.64948013689272,1.6234611232622314,23.136556902116126
+[22Mar2025 19:33:59.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 12.64948013689272,1.3722916854907794,23.136556902116126
+[22Mar2025 19:33:59.668] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 12.64948013689272,1.2960583199439029,23.136556902116126
+[22Mar2025 19:33:59.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 12.64948013689272,1.1950445954410114,23.136556902116126
+[22Mar2025 19:33:59.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 12.64948013689272,1.0693344241120641,23.136556902116126
+[22Mar2025 19:33:59.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 12.64948013689272,0.9752815269245616,23.136556902116126
+[22Mar2025 19:33:59.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 12.64948013689272,0.9452815269245605,23.136556902116126
+[22Mar2025 19:33:59.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 12.64948013689272,0.890361026924559,23.136556902116126
+[22Mar2025 19:33:59.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 12.64948013689272,0.8354405269245575,23.136556902116126
+[22Mar2025 19:33:59.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 12.64948013689272,0.759207161377681,23.136556902116126
+[22Mar2025 19:35:07.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 8.718635841401014,-1.9900883055690173,14.227049922530796
+[22Mar2025 19:35:07.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 8.382632325906872,-1.9346615948952675,13.795010844500894
+[22Mar2025 19:35:07.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 8.040908157940425,-1.861819001145328,13.362565340130686
+[22Mar2025 19:35:07.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 7.700229094085941,-1.7896423767822185,12.924432511151053
+[22Mar2025 19:35:07.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 7.361271325856006,-1.7182463092815468,12.48021104159261
+[22Mar2025 19:35:07.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 7.024633669565958,-1.6477305719394053,12.029577601916344
+[22Mar2025 19:35:07.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 6.690850087071208,-1.5781833043485989,11.572275805003528
+[22Mar2025 19:35:07.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 6.360399854851469,-1.5096834209811547,11.108106494668164
+[22Mar2025 19:35:07.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 6.033715980646743,-1.4423024780633256,10.636919243934926
+[22Mar2025 19:35:07.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 6.467948951107651,-1.5578305883591028,11.910247047306484
+[22Mar2025 19:35:07.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 6.126976813142509,-1.481623689129215,11.448105472294628
+[22Mar2025 19:35:07.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 5.793187786358761,-1.40911095559607,10.976367495771456
+[22Mar2025 19:35:07.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 5.466518230893886,-1.3397574974034825,10.495394008668882
+[22Mar2025 19:35:07.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 5.146934110805255,-1.2731700705434363,10.005499383194774
+[22Mar2025 19:35:07.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 4.834427656262562,-1.209061744829711,9.506961463504695
+[22Mar2025 19:35:07.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 4.5290140478292535,-1.1472254502240347,9.000029023941352
+[22Mar2025 19:35:07.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 4.485404535890268,-1.151324430477679,9.070445329279664
+[22Mar2025 19:35:36.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 12.771485654534025,1.2606240540418838,8.535203287800186
+[22Mar2025 19:35:36.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 12.191092821667262,1.1859278409139904,7.970072626382716
+[22Mar2025 19:35:36.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 11.602706680890435,1.1130197651539788,7.412471055025662
+[22Mar2025 19:35:36.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 11.00369279289292,1.0418228212780747,6.865404401293745
+[22Mar2025 19:35:36.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 10.394594511717827,0.971771166187267,6.328872925283804
+[22Mar2025 19:35:36.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 9.775883078992969,0.9024433285860312,5.80287378974208
+[22Mar2025 19:35:36.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 9.147971613052178,0.8335272816592294,5.287406112267718
+[22Mar2025 19:36:47.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC moved too quickly! 7.313883869377037,1.0,7.802273695376016
+[22Mar2025 19:37:01.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC moved too quickly! -7.075150300558818,-3.0,-7.572416744906832
