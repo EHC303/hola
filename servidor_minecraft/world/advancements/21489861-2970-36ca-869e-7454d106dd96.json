@@ -5417,6 +5417,12 @@
     },
     "done": true
   },
+  "mekanism:energy_transport": {
+    "criteria": {
+      "basic_universal_cable": "2025-03-22 16:18:28 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/dark_cherry_trapdoor": {
     "criteria": {
       "has_cherry_planks": "2025-03-22 14:24:44 +0000"
@@ -5438,6 +5444,12 @@
   "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
     "criteria": {
       "has_ingots_zinc": "2025-03-22 14:32:21 +0000"
+    },
+    "done": true
+  },
+  "mekanism:steel_ingot": {
+    "criteria": {
+      "ingot_steel": "2025-03-22 16:18:17 +0000"
     },
     "done": true
   },
@@ -5660,6 +5672,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-03-22 15:12:00 +0000"
+    },
+    "done": true
+  },
+  "mekanismgenerators:heat_generator": {
+    "criteria": {
+      "heat_generator": "2025-03-22 16:10:30 +0000"
     },
     "done": true
   },
