@@ -141,3 +141,6 @@
 [22Mar2025 23:41:33.367] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:38445] logged in with entity id 267 at (570.5, 104.29999995231628, 152.5)
 [22Mar2025 23:41:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
 [22Mar2025 23:41:33.398] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
+[22Mar2025 23:42:46.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC was kicked for floating too long!
+[22Mar2025 23:42:46.102] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Flying is not enabled on this server
+[22Mar2025 23:42:46.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
