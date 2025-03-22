@@ -6185,3 +6185,8 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [22Mar2025 15:55:04.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [22Mar2025 16:00:04.086] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Mar2025 16:00:04.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 16:05:04.085] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 16:05:04.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 16:10:04.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 16:10:04.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 16:10:30.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC has made the advancement [Your First Generator]
