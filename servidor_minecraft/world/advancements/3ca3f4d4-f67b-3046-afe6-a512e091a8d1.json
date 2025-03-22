@@ -680,6 +680,7 @@
       "minecraft:creeper": "2025-03-19 22:51:46 +0000",
       "minecraft:witch": "2025-03-20 23:15:32 +0000",
       "minecraft:enderman": "2025-03-20 19:40:22 +0000",
+      "minecraft:silverfish": "2025-03-22 16:44:24 +0000",
       "minecraft:zombie": "2025-03-19 22:46:06 +0000",
       "minecraft:zombie_villager": "2025-03-21 23:29:09 +0000"
     },
@@ -5345,6 +5346,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-22 16:43:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-03-22 16:29:02 +0000"
@@ -5366,6 +5373,24 @@
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2025-03-22 16:27:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-22 16:43:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-03-22 16:43:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-03-22 16:43:06 +0000"
     },
     "done": true
   },
