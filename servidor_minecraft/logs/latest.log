@@ -372,3 +372,47 @@
 [22Mar2025 17:19:21.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Successfully restored EHC's items
 [22Mar2025 17:19:54.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set EHC's game mode to Survival Mode
 [22Mar2025 17:20:51.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported EHC to ThiagoXD_0
+[22Mar2025 17:25:03.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 0.4093811762709265,-2.7030807051507253,20.03542424945158
+[22Mar2025 17:25:03.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 0.4738431431389927,-2.647206185435067,19.34628517090323
+[22Mar2025 17:25:03.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 0.5252931993613856,-2.574109878189873,18.65831466324221
+[22Mar2025 17:25:03.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 0.5869572947948427,-2.5233783840616013,17.96676400287788
+[22Mar2025 17:25:03.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 0.6357804266809808,-2.4511772850100044,17.2767072172677
+[22Mar2025 17:25:03.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 0.6772221809743542,-2.382027386189762,16.585119141227096
+[22Mar2025 17:25:03.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 0.7088673314780181,-2.2935950311264435,15.896677734119066
+[22Mar2025 17:25:03.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 0.7321760170902962,-2.189639515068265,15.212269663726374
+[22Mar2025 17:25:03.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 0.7511477704103982,-2.095741378833779,14.525787123674604
+[22Mar2025 17:25:03.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 0.7638871894316708,-1.9890391530082638,13.8433705025692
+[22Mar2025 17:25:03.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 0.771387711658349,-1.8730952568468524,13.165107293626761
+[22Mar2025 17:25:03.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 0.779568109679758,-1.7708391935902625,12.483057795231161
+[22Mar2025 17:25:03.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 0.7834849511484663,-1.6601287288005722,11.804762335881037
+[22Mar2025 17:25:03.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 0.7838180163893185,-1.5435275903408439,11.130121474227735
+[22Mar2025 17:25:03.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 0.7811390419789177,-1.4230003270912022,10.45895976281497
+[22Mar2025 17:25:03.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! 0.7971273937798742,-1.3988688884681153,10.444170693264027
+[22Mar2025 17:25:04.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.18926443036059482,-1.7085423954833772,11.986922459145717
+[22Mar2025 17:25:04.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.18926443036059482,-1.7085423954833772,11.986922459145717
+[22Mar2025 17:25:04.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.18926443036059482,-1.7085423954833772,11.986922459145717
+[22Mar2025 17:25:04.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.18926443036059482,-1.7085423954833772,11.986922459145717
+[22Mar2025 17:25:04.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.18926443036059482,-1.7085423954833772,11.986922459145717
+[22Mar2025 17:25:04.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.18926443036059482,-1.7085423954833772,11.986922459145717
+[22Mar2025 17:25:04.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.18926443036059482,-1.7085423954833772,11.986922459145717
+[22Mar2025 17:25:04.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.18926443036059482,-1.7085423954833772,11.986922459145717
+[22Mar2025 17:25:04.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.18926443036059482,-1.7085423954833772,11.986922459145717
+[22Mar2025 17:25:04.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.18926443036059482,-1.7085423954833772,11.986922459145717
+[22Mar2025 17:25:04.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.18926443036059482,-1.7085423954833772,11.986922459145717
+[22Mar2025 17:25:04.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.18926443036059482,-1.7085423954833772,11.986922459145717
+[22Mar2025 17:25:04.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.18926443036059482,-1.7085423954833772,11.986922459145717
+[22Mar2025 17:25:04.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.18926443036059482,-1.7085423954833772,11.986922459145717
+[22Mar2025 17:25:04.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.18926443036059482,-1.7085423954833772,11.986922459145717
+[22Mar2025 17:25:04.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.18854121906235832,-1.7080442214609093,11.987188695458713
+[22Mar2025 17:25:04.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.1880499983046775,-1.7070267786239413,11.981511404635171
+[22Mar2025 17:25:04.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.16640118463442377,-1.7956339598073612,12.639194234258525
+[22Mar2025 17:25:04.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.16544089266744777,-1.7997149599454616,12.632210222630874
+[22Mar2025 17:25:04.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.16422292947072492,-1.7998954923156134,12.627841910694087
+[22Mar2025 17:25:04.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.18589242240818749,-1.6982959153626211,11.976427771920953
+[22Mar2025 17:25:04.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.16221470890241108,-1.7981746647900536,12.61995703768821
+[22Mar2025 17:25:04.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.1613896793725189,-1.7966449168021086,12.616418256403563
+[22Mar2025 17:25:04.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved too quickly! -0.15936647915611957,-1.813999507433806,12.608856626920328
+[22Mar2025 17:27:56.223] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThiagoXD_0 lost connection: Timed out
+[22Mar2025 17:27:56.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 left the game
+[22Mar2025 17:29:39.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC has made the advancement [The City at the End of the Game]
+[22Mar2025 17:32:35.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC has made the advancement [Hunt and Gather]

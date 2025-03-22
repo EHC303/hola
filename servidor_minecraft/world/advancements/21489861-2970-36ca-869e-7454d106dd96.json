@@ -728,6 +728,7 @@
       "minecraft:witch": "2025-03-22 16:33:29 +0000",
       "minecraft:wither_skeleton": "2025-03-21 22:49:28 +0000",
       "minecraft:ender_dragon": "2025-03-22 17:15:52 +0000",
+      "minecraft:shulker": "2025-03-22 17:29:41 +0000",
       "minecraft:piglin": "2025-03-20 20:57:14 +0000",
       "minecraft:enderman": "2025-03-21 23:05:40 +0000",
       "minecraft:zombie": "2025-03-19 22:54:02 +0000",
@@ -6058,6 +6059,18 @@
   "minecraft:end/kill_dragon": {
     "criteria": {
       "killed_dragon": "2025-03-22 17:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-03-22 17:29:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-03-22 17:29:39 +0000"
     },
     "done": true
   },
