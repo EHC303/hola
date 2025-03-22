@@ -322,3 +322,21 @@
 [22Mar2025 17:02:11.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThiagoXD_0 was kicked for floating too long!
 [22Mar2025 17:02:11.885] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThiagoXD_0 lost connection: Flying is not enabled on this server
 [22Mar2025 17:02:11.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 left the game
+[22Mar2025 17:04:36.679] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@7e5f237[id=<null>,name=ThiagoXD_0,properties={},legacy=false] (/127.160.125.0:33781): Took too long to log in
+[22Mar2025 17:04:36.679] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7e5f237[id=<null>,name=ThiagoXD_0,properties={},legacy=false] (/127.160.125.0:33781) lost connection: Took too long to log in
+[22Mar2025 17:04:36.723] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Mar2025 17:05:43.472] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@62b97839[id=<null>,name=ThiagoXD_0,properties={},legacy=false] (/127.160.125.0:48261): Took too long to log in
+[22Mar2025 17:05:43.473] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@62b97839[id=<null>,name=ThiagoXD_0,properties={},legacy=false] (/127.160.125.0:48261) lost connection: Took too long to log in
+[22Mar2025 17:05:43.522] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Mar2025 17:06:59.422] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@146bfd5f[id=<null>,name=ThiagoXD_0,properties={},legacy=false] (/127.160.125.0:57763): Took too long to log in
+[22Mar2025 17:06:59.423] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@146bfd5f[id=<null>,name=ThiagoXD_0,properties={},legacy=false] (/127.160.125.0:57763) lost connection: Took too long to log in
+[22Mar2025 17:06:59.472] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Mar2025 17:08:51.422] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@c35133d[id=<null>,name=ThiagoXD_0,properties={},legacy=false] (/127.160.125.0:35113): Took too long to log in
+[22Mar2025 17:08:51.423] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@c35133d[id=<null>,name=ThiagoXD_0,properties={},legacy=false] (/127.160.125.0:35113) lost connection: Took too long to log in
+[22Mar2025 17:08:51.472] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Mar2025 17:11:27.972] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@20b5b221[id=<null>,name=ThiagoXD_0,properties={},legacy=false] (/127.160.125.0:45601): Took too long to log in
+[22Mar2025 17:11:27.973] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@20b5b221[id=<null>,name=ThiagoXD_0,properties={},legacy=false] (/127.160.125.0:45601) lost connection: Took too long to log in
+[22Mar2025 17:11:28.023] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Mar2025 17:12:25.882] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThiagoXD_0[/127.160.125.0:48447] logged in with entity id 56644 at (-902.6544435292211, 13.607395450048656, 1184.4602965509291)
+[22Mar2025 17:12:25.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 joined the game
+[22Mar2025 17:12:25.897] [Server thread/INFO] [Jade/]: Syncing config to ThiagoXD_0 (3ca3f4d4-f67b-3046-afe6-a512e091a8d1)
