@@ -725,6 +725,7 @@
       "minecraft:piglin_brute": "2025-03-21 23:53:29 +0000",
       "minecraft:creeper": "2025-03-20 16:12:29 +0000",
       "minecraft:phantom": "2025-03-22 14:07:14 +0000",
+      "minecraft:witch": "2025-03-22 16:33:29 +0000",
       "minecraft:wither_skeleton": "2025-03-21 22:49:28 +0000",
       "minecraft:piglin": "2025-03-20 20:57:14 +0000",
       "minecraft:enderman": "2025-03-21 23:05:40 +0000",
@@ -5381,6 +5382,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-03-22 16:36:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-03-22 15:10:38 +0000"
@@ -5453,6 +5460,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/protecto": {
+    "criteria": {
+      "has_ender_eye": "2025-03-22 16:36:21 +0000"
+    },
+    "done": true
+  },
   "mekanism:steel_ingot": {
     "criteria": {
       "ingot_steel": "2025-03-22 16:18:17 +0000"
@@ -5504,6 +5517,12 @@
   "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-03-22 15:12:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-03-22 16:36:21 +0000"
     },
     "done": true
   },

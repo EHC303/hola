@@ -6430,3 +6430,14 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [22Mar2025 16:27:07.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 has completed the challenge [Cover Me in Debris]
 [22Mar2025 16:30:04.095] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Mar2025 16:30:04.104] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 16:35:04.098] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 16:35:04.106] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 16:35:13.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 16 [Ender Pearl] to EHC
+[22Mar2025 16:38:33.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved wrongly! 0.28541905753763785
+[22Mar2025 16:38:33.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved wrongly! 0.467365459310372
+[22Mar2025 16:38:33.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved wrongly! 0.9228933465841465
+[22Mar2025 16:40:04.101] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 16:40:04.110] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 16:41:13.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ThiagoXD_0) moved wrongly! 0.41150562746361175
+[22Mar2025 16:41:13.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ThiagoXD_0) moved wrongly! 0.9752781842928471
+[22Mar2025 16:41:13.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ThiagoXD_0) moved wrongly! 0.5389451278980459
