@@ -284,3 +284,41 @@
 [22Mar2025 16:51:16.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 42.115640857072094,15.713790548686745,-30.490709117847473
 [22Mar2025 16:51:16.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 42.72038722327659,15.713790548686745,-30.73114087801241
 [22Mar2025 16:51:16.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 43.325133572338814,15.713790548686745,-30.971572681869702
+[22Mar2025 16:52:10.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 10.31354329107512,0.0,1.795711583321463
+[22Mar2025 16:52:10.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 10.886517918358095,0.0,1.895473337947351
+[22Mar2025 16:52:10.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 11.45949254564107,0.0,1.995235092573239
+[22Mar2025 16:52:10.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 12.032467172924044,0.0,2.094996847199127
+[22Mar2025 16:52:10.088] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 12.605441800207018,0.0,2.194758601825015
+[22Mar2025 16:52:10.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of EHC) moved too quickly! 13.178416427489992,0.0,2.294520356450903
+[22Mar2025 16:52:29.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC moved too quickly! 3.607529817814793,0.7967356006687112,-9.35051116451973
+[22Mar2025 16:52:34.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC was kicked for floating too long!
+[22Mar2025 16:52:34.079] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Flying is not enabled on this server
+[22Mar2025 16:52:34.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
+[22Mar2025 16:52:45.385] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:33783] logged in with entity id 53630 at (-274.4834364730643, 79.02442408821369, 1031.0077973256589)
+[22Mar2025 16:52:45.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
+[22Mar2025 16:52:45.401] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
+[22Mar2025 16:54:55.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved wrongly! 0.9201212719009391
+[22Mar2025 16:54:55.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Large Plane (vehicle of EHC) moved wrongly! 0.49930131960491053
+[22Mar2025 16:57:00.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Timed out
+[22Mar2025 16:57:00.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
+[22Mar2025 16:57:45.636] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:52337] logged in with entity id 55157 at (-891.9173613944544, 11.0, 1184.0388105214945)
+[22Mar2025 16:57:45.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
+[22Mar2025 16:57:45.704] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
+[22Mar2025 16:58:30.774] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Timed out
+[22Mar2025 16:58:30.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
+[22Mar2025 16:59:01.235] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:44423] logged in with entity id 55305 at (-900.4426335869941, 14.0, 1185.276552343886)
+[22Mar2025 16:59:01.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
+[22Mar2025 16:59:01.290] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
+[22Mar2025 16:59:31.376] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Timed out
+[22Mar2025 16:59:31.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
+[22Mar2025 16:59:44.939] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:46707] logged in with entity id 55387 at (-900.4426335869941, 14.0, 1185.276552343886)
+[22Mar2025 16:59:44.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
+[22Mar2025 16:59:45.015] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
+[22Mar2025 17:02:05.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC has made the advancement [The End?]
+[22Mar2025 17:02:07.011] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
+[22Mar2025 17:02:07.017] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
+[22Mar2025 17:02:07.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 has made the advancement [The End?]
+[22Mar2025 17:02:07.851] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2882ms or 57 ticks behind
+[22Mar2025 17:02:11.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThiagoXD_0 was kicked for floating too long!
+[22Mar2025 17:02:11.885] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThiagoXD_0 lost connection: Flying is not enabled on this server
+[22Mar2025 17:02:11.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 left the game
