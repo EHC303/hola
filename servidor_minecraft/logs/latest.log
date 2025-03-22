@@ -225,3 +225,20 @@
 [22Mar2025 20:06:55.829] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Timed out
 [22Mar2025 20:06:55.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
 [22Mar2025 20:07:51.523] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5db869ed[id=<null>,name=EHC,properties={},legacy=false] (/127.175.124.207:34805) lost connection: Disconnected
+[22Mar2025 20:27:32.488] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:45679] logged in with entity id 5319 at (-299.293972736801, 79.08675732700978, 1022.767640582999)
+[22Mar2025 20:27:32.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
+[22Mar2025 20:27:32.502] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
+[22Mar2025 20:27:43.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made EHC a server operator
+[22Mar2025 20:28:02.579] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Timed out
+[22Mar2025 20:28:02.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
+[22Mar2025 20:28:27.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Mar2025 20:28:27.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Mar2025 20:28:27.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Mar2025 20:28:27.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22Mar2025 20:28:27.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22Mar2025 20:28:27.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22Mar2025 20:28:27.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Mar2025 20:28:27.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Mar2025 20:28:27.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Mar2025 20:28:27.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22Mar2025 20:28:27.597] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
