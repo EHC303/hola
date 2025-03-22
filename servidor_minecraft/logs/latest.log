@@ -216,3 +216,12 @@
 [22Mar2025 19:54:03.036] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:55965] logged in with entity id 2739 at (-285.98295440812893, 96.03676388332184, 485.87715175321136)
 [22Mar2025 19:54:03.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
 [22Mar2025 19:54:03.052] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
+[22Mar2025 20:05:19.079] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Timed out
+[22Mar2025 20:05:19.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
+[22Mar2025 20:06:12.527] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5b3b6556[id=<null>,name=EHC,properties={},legacy=false] (/127.175.124.207:52719) lost connection: Disconnected
+[22Mar2025 20:06:25.685] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:40741] logged in with entity id 5119 at (-299.293972736801, 79.08675732700978, 1022.767640582999)
+[22Mar2025 20:06:25.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
+[22Mar2025 20:06:25.698] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
+[22Mar2025 20:06:55.829] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Timed out
+[22Mar2025 20:06:55.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
+[22Mar2025 20:07:51.523] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5db869ed[id=<null>,name=EHC,properties={},legacy=false] (/127.175.124.207:34805) lost connection: Disconnected
