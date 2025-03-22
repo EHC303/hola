@@ -727,6 +727,7 @@
       "minecraft:phantom": "2025-03-22 14:07:14 +0000",
       "minecraft:witch": "2025-03-22 16:33:29 +0000",
       "minecraft:wither_skeleton": "2025-03-21 22:49:28 +0000",
+      "minecraft:ender_dragon": "2025-03-22 17:15:52 +0000",
       "minecraft:piglin": "2025-03-20 20:57:14 +0000",
       "minecraft:enderman": "2025-03-21 23:05:40 +0000",
       "minecraft:zombie": "2025-03-19 22:54:02 +0000",
@@ -6006,6 +6007,18 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-03-22 17:02:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-03-22 17:02:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-03-22 17:03:35 +0000"
@@ -6018,21 +6031,9 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2025-03-22 17:02:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
       "has_end_stone": "2025-03-22 17:03:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/root": {
-    "criteria": {
-      "entered_end": "2025-03-22 17:02:05 +0000"
     },
     "done": true
   },
@@ -6045,6 +6046,18 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-03-22 17:03:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-03-22 17:14:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-03-22 17:15:52 +0000"
     },
     "done": true
   },

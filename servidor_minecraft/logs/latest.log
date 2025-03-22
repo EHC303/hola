@@ -340,3 +340,35 @@
 [22Mar2025 17:12:25.882] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThiagoXD_0[/127.160.125.0:48447] logged in with entity id 56644 at (-902.6544435292211, 13.607395450048656, 1184.4602965509291)
 [22Mar2025 17:12:25.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 joined the game
 [22Mar2025 17:12:25.897] [Server thread/INFO] [Jade/]: Syncing config to ThiagoXD_0 (3ca3f4d4-f67b-3046-afe6-a512e091a8d1)
+[22Mar2025 17:13:17.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC was kicked for floating too long!
+[22Mar2025 17:13:17.072] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Flying is not enabled on this server
+[22Mar2025 17:13:17.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
+[22Mar2025 17:13:51.834] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:37731] logged in with entity id 56842 at (0.07579367961846356, 61.7967356006687, -15.31582418501046)
+[22Mar2025 17:13:51.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
+[22Mar2025 17:13:51.847] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
+[22Mar2025 17:13:52.231] [Server thread/WARN] [net.minecraft.world.entity.boss.enderdragon.phases.DragonStrafePlayerPhase/]: Skipping player strafe phase because no player was found
+[22Mar2025 17:14:46.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC has reached the goal [You Need a Mint]
+[22Mar2025 17:15:52.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC has made the advancement [Free the End]
+[22Mar2025 17:16:00.474] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Disconnected
+[22Mar2025 17:16:00.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
+[22Mar2025 17:16:44.082] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:45901] logged in with entity id 57238 at (-0.4651709315241563, 61.0, -20.722957210273773)
+[22Mar2025 17:16:44.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
+[22Mar2025 17:16:44.095] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
+[22Mar2025 17:16:45.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported EHC to ThiagoXD_0
+[22Mar2025 17:16:52.672] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Disconnected
+[22Mar2025 17:16:52.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
+[22Mar2025 17:18:13.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThiagoXD_0 was kicked for floating too long!
+[22Mar2025 17:18:13.371] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThiagoXD_0 lost connection: Flying is not enabled on this server
+[22Mar2025 17:18:13.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 left the game
+[22Mar2025 17:18:19.279] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:37327] logged in with entity id 57484 at (-902.6544435292211, -145.551174250013, 1184.4602965509291)
+[22Mar2025 17:18:19.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
+[22Mar2025 17:18:19.293] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
+[22Mar2025 17:18:19.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC fell out of the world
+[22Mar2025 17:18:20.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set EHC's game mode to Creative Mode
+[22Mar2025 17:18:55.528] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThiagoXD_0[/127.160.125.0:43285] logged in with entity id 57805 at (-902.6544435292211, 13.607395450048656, 1184.4602965509291)
+[22Mar2025 17:18:55.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 joined the game
+[22Mar2025 17:18:55.544] [Server thread/INFO] [Jade/]: Syncing config to ThiagoXD_0 (3ca3f4d4-f67b-3046-afe6-a512e091a8d1)
+[22Mar2025 17:19:07.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[22Mar2025 17:19:21.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Successfully restored EHC's items
+[22Mar2025 17:19:54.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set EHC's game mode to Survival Mode
+[22Mar2025 17:20:51.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported EHC to ThiagoXD_0
