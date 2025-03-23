@@ -5437,9 +5437,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+    "criteria": {
+      "armor_trimmed_minecraft:spire_armor_trim_smithing_template_smithing_trim": "2025-03-23 02:43:27 +0000"
+    },
+    "done": false
+  },
   "toughasnails:recipes/decorations/thermoregulator": {
     "criteria": {
       "has_thermometer": "2025-03-23 02:37:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:spire_armor_trim_smithing_template_smithing_trim": "2025-03-23 02:43:27 +0000"
     },
     "done": true
   },
