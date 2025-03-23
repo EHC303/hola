@@ -180,3 +180,4 @@ Missing minecraft:block:
 [23Mar2025 15:40:24.472] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:35661] logged in with entity id 2776 at (-346.34749607764894, 78.0, 1003.3939013555433)
 [23Mar2025 15:40:24.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
 [23Mar2025 15:40:24.502] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
+[23Mar2025 16:13:02.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set 72 experience levels on EHC]
