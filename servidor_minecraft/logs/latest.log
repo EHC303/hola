@@ -181,3 +181,4 @@ Missing minecraft:block:
 [23Mar2025 15:40:24.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
 [23Mar2025 15:40:24.502] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
 [23Mar2025 16:13:02.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set 72 experience levels on EHC]
+[23Mar2025 17:08:52.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Creative Mode]
