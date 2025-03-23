@@ -250,3 +250,13 @@ Missing minecraft:block:
 [23Mar2025 18:28:06.254] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-608, y=63, z=267} BlockPos{x=-606, y=63, z=267}
 [23Mar2025 18:28:22.002] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-610, y=64, z=280} BlockPos{x=-609, y=62, z=282}
 [23Mar2025 18:28:22.052] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-611, y=64, z=280} BlockPos{x=-609, y=62, z=282}
+[23Mar2025 18:30:58.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Creative Mode]
+[23Mar2025 18:31:53.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Survival Mode]
+[23Mar2025 18:32:53.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Creative Mode]
+[23Mar2025 18:33:31.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Survival Mode]
+[23Mar2025 18:34:32.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC has reached the goal [The Factory Must Grow!]
+[23Mar2025 18:35:18.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC has made the advancement [The Alloy That Started it All]
+[23Mar2025 18:39:27.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Creative Mode]
+[23Mar2025 18:39:38.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC has made the advancement [Getting More From Less]
+[23Mar2025 18:39:51.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Survival Mode]
+[23Mar2025 18:40:11.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC has made the advancement [Infusing Efficiency]

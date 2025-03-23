@@ -7622,5 +7622,23 @@
     },
     "done": true
   },
+  "mekanism:infused_alloy": {
+    "criteria": {
+      "alloy_infused": "2025-03-23 18:35:18 +0000"
+    },
+    "done": true
+  },
+  "mekanism:factory": {
+    "criteria": {
+      "factory": "2025-03-23 18:34:32 +0000"
+    },
+    "done": true
+  },
+  "mekanism:advanced_control_circuit": {
+    "criteria": {
+      "advanced_control_circuit": "2025-03-23 18:35:55 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
