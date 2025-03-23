@@ -290,3 +290,6 @@ Missing minecraft:block:
 [23Mar2025 19:48:49.805] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:43929] logged in with entity id 41373 at (-322.24223968379715, 78.0, 1024.4173597131887)
 [23Mar2025 19:48:49.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
 [23Mar2025 19:48:49.825] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
+[23Mar2025 20:10:19.864] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThiagoXD_0[/127.126.235.175:44379] logged in with entity id 45170 at (-268.30000001192093, 78.0, 1021.4518695472728)
+[23Mar2025 20:10:19.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 joined the game
+[23Mar2025 20:10:19.907] [Server thread/INFO] [Jade/]: Syncing config to ThiagoXD_0 (3ca3f4d4-f67b-3046-afe6-a512e091a8d1)
