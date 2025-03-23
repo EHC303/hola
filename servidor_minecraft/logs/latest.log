@@ -285,3 +285,8 @@ Missing minecraft:block:
 [23Mar2025 19:32:19.507] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:53845] logged in with entity id 39667 at (-302.75390591322576, 78.0, 1020.714812944281)
 [23Mar2025 19:32:19.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
 [23Mar2025 19:32:19.525] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
+[23Mar2025 19:47:29.647] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Disconnected
+[23Mar2025 19:47:29.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
+[23Mar2025 19:48:49.805] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:43929] logged in with entity id 41373 at (-322.24223968379715, 78.0, 1024.4173597131887)
+[23Mar2025 19:48:49.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
+[23Mar2025 19:48:49.825] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
