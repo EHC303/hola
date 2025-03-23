@@ -177,3 +177,6 @@ Missing minecraft:block:
 [23Mar2025 15:15:07.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set the weather to rain]
 [23Mar2025 15:26:46.948] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Disconnected
 [23Mar2025 15:26:46.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
+[23Mar2025 15:40:24.472] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:35661] logged in with entity id 2776 at (-346.34749607764894, 78.0, 1003.3939013555433)
+[23Mar2025 15:40:24.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
+[23Mar2025 15:40:24.502] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
