@@ -293,3 +293,20 @@ Missing minecraft:block:
 [23Mar2025 20:10:19.864] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ThiagoXD_0[/127.126.235.175:44379] logged in with entity id 45170 at (-268.30000001192093, 78.0, 1021.4518695472728)
 [23Mar2025 20:10:19.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 joined the game
 [23Mar2025 20:10:19.907] [Server thread/INFO] [Jade/]: Syncing config to ThiagoXD_0 (3ca3f4d4-f67b-3046-afe6-a512e091a8d1)
+[23Mar2025 20:12:15.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ThiagoXD_0> ole me voy a morir de hambre :c
+[23Mar2025 20:12:20.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EHC> XD
+[23Mar2025 20:15:58.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 has reached the goal [Sky's the Limit]
+[23Mar2025 20:20:10.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of ThiagoXD_0) moved wrongly! 0.41681060469448994
+[23Mar2025 20:20:36.107] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of ThiagoXD_0) moved too quickly! -21.555718673419406,-1.9573690650564401,-12.414267560663575
+[23Mar2025 20:20:36.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of ThiagoXD_0) moved too quickly! -21.553678790919093,-1.964438497380712,-12.413629028737432
+[23Mar2025 20:20:36.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of ThiagoXD_0) moved too quickly! -20.65954767765095,-1.8823355366417047,-11.89799880879491
+[23Mar2025 20:20:36.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of ThiagoXD_0) moved too quickly! -19.765461504487817,-1.8012295816064352,-11.382435992716182
+[23Mar2025 20:20:36.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of ThiagoXD_0) moved too quickly! -18.871456278522928,-1.7205692442697682,-10.866936623858464
+[23Mar2025 20:20:36.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of ThiagoXD_0) moved too quickly! -17.977565727708367,-1.6399437504737193,-10.351499133141033
+[23Mar2025 20:20:36.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of ThiagoXD_0) moved too quickly! -17.083821763475598,-1.5590474106332977,-9.836124139407275
+[23Mar2025 20:20:36.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of ThiagoXD_0) moved too quickly! -16.190254738296403,-1.4776530837471569,-9.320813967650565
+[23Mar2025 20:20:36.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of ThiagoXD_0) moved too quickly! -15.296893464050072,-1.3955923695263266,-8.805572345962673
+[23Mar2025 20:20:36.177] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of ThiagoXD_0) moved too quickly! -14.403765220280064,-1.312740745286618,-8.290404096755083
+[23Mar2025 20:20:36.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of ThiagoXD_0) moved too quickly! -14.402456564479195,-1.312005565244192,-8.289872849238009
+[23Mar2025 20:21:11.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of ThiagoXD_0) moved too quickly! -2.1982224166894184,-1.1070054835185488,-11.073756653026521
+[23Mar2025 20:21:11.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of ThiagoXD_0) moved too quickly! -1.997402461801812,-1.0121790713951953,-10.06282312916187
