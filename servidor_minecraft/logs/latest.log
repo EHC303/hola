@@ -188,3 +188,65 @@ Missing minecraft:block:
 [23Mar2025 17:59:03.713] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:60391] logged in with entity id 21525 at (-329.542794872627, 78.0, 1023.2185361989249)
 [23Mar2025 17:59:03.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
 [23Mar2025 17:59:03.739] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
+[23Mar2025 18:20:41.953] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-628, y=68, z=233} BlockPos{x=-638, y=66, z=253}
+[23Mar2025 18:20:42.001] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-628, y=68, z=233} BlockPos{x=-638, y=66, z=253}
+[23Mar2025 18:20:42.051] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-628, y=68, z=233} BlockPos{x=-638, y=66, z=253}
+[23Mar2025 18:20:42.103] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-628, y=68, z=233} BlockPos{x=-638, y=66, z=253}
+[23Mar2025 18:20:42.152] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-628, y=68, z=233} BlockPos{x=-638, y=66, z=253}
+[23Mar2025 18:20:42.202] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-628, y=68, z=233} BlockPos{x=-638, y=66, z=253}
+[23Mar2025 18:20:42.251] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-628, y=68, z=233} BlockPos{x=-638, y=66, z=253}
+[23Mar2025 18:20:42.303] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-628, y=68, z=233} BlockPos{x=-638, y=66, z=253}
+[23Mar2025 18:20:42.351] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-628, y=68, z=233} BlockPos{x=-638, y=66, z=253}
+[23Mar2025 18:20:42.401] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-628, y=68, z=233} BlockPos{x=-638, y=66, z=253}
+[23Mar2025 18:20:42.451] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-628, y=68, z=233} BlockPos{x=-638, y=66, z=253}
+[23Mar2025 18:20:42.501] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-628, y=68, z=233} BlockPos{x=-638, y=66, z=253}
+[23Mar2025 18:20:42.551] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-628, y=68, z=233} BlockPos{x=-638, y=66, z=253}
+[23Mar2025 18:20:42.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-628, y=68, z=233} BlockPos{x=-638, y=66, z=253}
+[23Mar2025 18:20:42.652] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-628, y=68, z=233} BlockPos{x=-638, y=66, z=253}
+[23Mar2025 18:20:42.701] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-628, y=68, z=233} BlockPos{x=-638, y=66, z=253}
+[23Mar2025 18:20:42.751] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-628, y=68, z=233} BlockPos{x=-638, y=66, z=253}
+[23Mar2025 18:20:42.802] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-628, y=68, z=233} BlockPos{x=-638, y=66, z=253}
+[23Mar2025 18:20:42.855] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-628, y=68, z=233} BlockPos{x=-638, y=66, z=253}
+[23Mar2025 18:20:42.902] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-628, y=68, z=233} BlockPos{x=-638, y=66, z=253}
+[23Mar2025 18:20:42.954] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-640, y=67, z=256} BlockPos{x=-638, y=66, z=253}
+[23Mar2025 18:20:43.002] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-640, y=67, z=256} BlockPos{x=-638, y=66, z=253}
+[23Mar2025 18:20:43.053] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-640, y=67, z=256} BlockPos{x=-638, y=66, z=253}
+[23Mar2025 18:20:43.102] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-640, y=67, z=256} BlockPos{x=-638, y=66, z=253}
+[23Mar2025 18:20:43.150] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-640, y=67, z=256} BlockPos{x=-638, y=66, z=253}
+[23Mar2025 18:20:43.200] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-640, y=67, z=256} BlockPos{x=-638, y=66, z=253}
+[23Mar2025 18:20:43.251] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-640, y=67, z=256} BlockPos{x=-638, y=66, z=253}
+[23Mar2025 18:20:43.301] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-640, y=67, z=256} BlockPos{x=-638, y=66, z=253}
+[23Mar2025 18:21:27.899] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-624, y=66, z=251} BlockPos{x=-625, y=65, z=251}
+[23Mar2025 18:21:27.901] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-624, y=66, z=251} BlockPos{x=-625, y=65, z=251}
+[23Mar2025 18:21:27.951] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-624, y=66, z=251} BlockPos{x=-625, y=65, z=251}
+[23Mar2025 18:21:28.001] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-624, y=66, z=251} BlockPos{x=-625, y=65, z=251}
+[23Mar2025 18:21:28.049] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-624, y=66, z=251} BlockPos{x=-625, y=65, z=251}
+[23Mar2025 18:21:28.100] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-624, y=66, z=251} BlockPos{x=-625, y=65, z=251}
+[23Mar2025 18:21:28.149] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-624, y=66, z=251} BlockPos{x=-625, y=65, z=251}
+[23Mar2025 18:21:28.802] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-625, y=66, z=250} BlockPos{x=-626, y=66, z=249}
+[23Mar2025 18:21:48.252] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-642, y=65, z=270} BlockPos{x=-642, y=65, z=268}
+[23Mar2025 18:21:48.302] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-642, y=65, z=270} BlockPos{x=-642, y=65, z=268}
+[23Mar2025 18:21:48.352] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-642, y=65, z=270} BlockPos{x=-642, y=65, z=268}
+[23Mar2025 18:21:48.404] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-642, y=65, z=270} BlockPos{x=-642, y=65, z=268}
+[23Mar2025 18:21:48.451] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-642, y=65, z=270} BlockPos{x=-642, y=65, z=268}
+[23Mar2025 18:21:50.703] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-643, y=65, z=273} BlockPos{x=-642, y=64, z=272}
+[23Mar2025 18:22:46.154] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-651, y=66, z=324} BlockPos{x=-654, y=65, z=323}
+[23Mar2025 18:23:03.353] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-626, y=63, z=314} BlockPos{x=-628, y=64, z=312}
+[23Mar2025 18:23:27.502] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-623, y=63, z=310} BlockPos{x=-622, y=63, z=309}
+[23Mar2025 18:23:27.553] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-623, y=63, z=310} BlockPos{x=-622, y=63, z=309}
+[23Mar2025 18:23:27.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-623, y=63, z=310} BlockPos{x=-622, y=63, z=309}
+[23Mar2025 18:23:27.651] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-623, y=63, z=310} BlockPos{x=-622, y=63, z=309}
+[23Mar2025 18:23:27.701] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-623, y=63, z=310} BlockPos{x=-622, y=63, z=309}
+[23Mar2025 18:23:27.753] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-623, y=63, z=310} BlockPos{x=-622, y=63, z=309}
+[23Mar2025 18:23:54.154] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Disconnected
+[23Mar2025 18:23:54.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
+[23Mar2025 18:25:52.364] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:48353] logged in with entity id 29525 at (-586.3751512044722, 63.0, 301.0741361707415)
+[23Mar2025 18:25:52.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
+[23Mar2025 18:25:52.387] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
+[23Mar2025 18:26:34.252] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-600, y=65, z=262} BlockPos{x=-602, y=64, z=260}
+[23Mar2025 18:27:45.605] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-611, y=65, z=287} BlockPos{x=-614, y=63, z=290}
+[23Mar2025 18:27:45.652] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-612, y=65, z=288} BlockPos{x=-614, y=63, z=290}
+[23Mar2025 18:27:45.707] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-612, y=65, z=288} BlockPos{x=-614, y=63, z=290}
+[23Mar2025 18:28:06.254] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-608, y=63, z=267} BlockPos{x=-606, y=63, z=267}
+[23Mar2025 18:28:22.002] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-610, y=64, z=280} BlockPos{x=-609, y=62, z=282}
+[23Mar2025 18:28:22.052] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-611, y=64, z=280} BlockPos{x=-609, y=62, z=282}
