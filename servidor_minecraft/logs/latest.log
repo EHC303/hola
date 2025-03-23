@@ -260,3 +260,7 @@ Missing minecraft:block:
 [23Mar2025 18:39:38.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC has made the advancement [Getting More From Less]
 [23Mar2025 18:39:51.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Survival Mode]
 [23Mar2025 18:40:11.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC has made the advancement [Infusing Efficiency]
+[23Mar2025 18:50:53.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Creative Mode]
+[23Mar2025 18:51:04.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC has reached the goal [Burn the Gas]
+[23Mar2025 18:52:39.298] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Disconnected
+[23Mar2025 18:52:39.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
