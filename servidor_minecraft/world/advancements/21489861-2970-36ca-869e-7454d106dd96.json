@@ -7628,15 +7628,63 @@
     },
     "done": true
   },
+  "mekanism:ultimate_control_circuit": {
+    "criteria": {
+      "ultimate_control_circuit": "2025-03-23 18:46:41 +0000"
+    },
+    "done": true
+  },
   "mekanism:factory": {
     "criteria": {
       "factory": "2025-03-23 18:34:32 +0000"
     },
     "done": true
   },
+  "mekanism:elite_control_circuit": {
+    "criteria": {
+      "elite_control_circuit": "2025-03-23 18:40:51 +0000"
+    },
+    "done": true
+  },
+  "mekanism:reinforced_alloy": {
+    "criteria": {
+      "alloy_reinforced": "2025-03-23 18:40:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-23 18:43:08 +0000"
+    },
+    "done": true
+  },
   "mekanism:advanced_control_circuit": {
     "criteria": {
       "advanced_control_circuit": "2025-03-23 18:35:55 +0000"
+    },
+    "done": true
+  },
+  "mekanism:atomic_alloy": {
+    "criteria": {
+      "alloy_atomic": "2025-03-23 18:45:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-03-23 18:43:08 +0000"
+    },
+    "done": true
+  },
+  "mekanism:enricher": {
+    "criteria": {
+      "enrichment_chamber": "2025-03-23 18:39:38 +0000"
+    },
+    "done": true
+  },
+  "mekanism:infusing_efficiency": {
+    "criteria": {
+      "enriched_material": "2025-03-23 18:40:11 +0000"
     },
     "done": true
   },
