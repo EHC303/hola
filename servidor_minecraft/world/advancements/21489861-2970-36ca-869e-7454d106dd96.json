@@ -7706,5 +7706,29 @@
     },
     "done": true
   },
+  "mekanism:network_reader": {
+    "criteria": {
+      "network_reader": "2025-03-23 19:20:19 +0000"
+    },
+    "done": true
+  },
+  "mekanism:playing_with_fire": {
+    "criteria": {
+      "flamethrower": "2025-03-23 19:20:47 +0000"
+    },
+    "done": true
+  },
+  "mekanism:machine_security": {
+    "criteria": {
+      "security_desk": "2025-03-23 19:19:58 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/charc_os": {
+    "criteria": {
+      "has_charcoal": "2025-03-23 19:22:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

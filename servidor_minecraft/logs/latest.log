@@ -279,3 +279,6 @@ Missing minecraft:block:
 [23Mar2025 19:15:29.707] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EHC[/127.175.124.207:47869] logged in with entity id 36439 at (-280.98750001192093, 78.0, 1030.142049668421)
 [23Mar2025 19:15:29.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC joined the game
 [23Mar2025 19:15:29.725] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
+[23Mar2025 19:24:17.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Survival Mode]
+[23Mar2025 19:27:41.098] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Disconnected
+[23Mar2025 19:27:41.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
