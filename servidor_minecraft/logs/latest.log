@@ -191,3 +191,19 @@
 [23Mar2025 02:53:29.758] [Server thread/INFO] [Jade/]: Syncing config to EHC (21489861-2970-36ca-869e-7454d106dd96)
 [23Mar2025 02:53:59.820] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Timed out
 [23Mar2025 02:53:59.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
+[23Mar2025 02:55:25.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected whitespace to end one argument, but found trailing data
+[23Mar2025 02:55:25.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: give efe/effect give ThiagoXD_0 minecraft:poison 300 2<--[HERE]
+[23Mar2025 02:56:18.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Applied effect Poison to ThiagoXD_0
+[23Mar2025 02:56:50.321] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThiagoXD_0 lost connection: Disconnected
+[23Mar2025 02:56:50.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThiagoXD_0 left the game
+[23Mar2025 02:56:50.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Mar2025 02:56:50.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Mar2025 02:56:50.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Mar2025 02:56:50.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23Mar2025 02:56:50.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23Mar2025 02:56:50.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23Mar2025 02:56:51.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Mar2025 02:56:51.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Mar2025 02:56:51.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Mar2025 02:56:51.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23Mar2025 02:56:51.050] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
