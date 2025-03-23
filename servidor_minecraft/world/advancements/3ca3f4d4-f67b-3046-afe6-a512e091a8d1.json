@@ -5437,5 +5437,17 @@
     },
     "done": true
   },
+  "toughasnails:recipes/decorations/thermoregulator": {
+    "criteria": {
+      "has_thermometer": "2025-03-23 02:37:53 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/redstone/temperature_gauge": {
+    "criteria": {
+      "has_thermometer": "2025-03-23 02:37:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
