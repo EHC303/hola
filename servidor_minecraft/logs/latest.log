@@ -175,3 +175,5 @@ Missing minecraft:block:
 [23Mar2025 15:11:14.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Creative Mode]
 [23Mar2025 15:12:45.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set own game mode to Survival Mode]
 [23Mar2025 15:15:07.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EHC: Set the weather to rain]
+[23Mar2025 15:26:46.948] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EHC lost connection: Disconnected
+[23Mar2025 15:26:46.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EHC left the game
